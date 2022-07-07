@@ -1,0 +1,19 @@
+body{
+    background-image:url("image//back.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+@media (min-width:586px){
+
+#name{
+    color:blue;
+}
+
+}
+
+
+h3{
+    
+    color:red
+}

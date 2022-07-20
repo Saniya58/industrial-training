@@ -2,7 +2,7 @@ function create(){
 
 
 let email=document.getElementById("email1").Value;
-let studentname=document.getElementById("name").Value;
+let studentname=document.getElementById("name1").Value;
 let clg=document.getElementById("clg1").value;
 let branch=document.getElementById("branch1").Value;
 let p=document.getElementById("phone1").Value;
